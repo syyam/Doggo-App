@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#FF5722</color>
+    <color name="colorPrimaryDark">#FF9800</color>
+    <color name="colorAccent">#FFC107</color>
+    <color name="colorGrey">#4C4C4C</color>
+    <color name="background">#2B292B</color>
+    <color name="black_overlay">#66000000</color>
+    <color name="text_black">#2B292B</color>
+    <color name="text_white">#ffffffff</color>
+    <color name="white">#ffffffff</color>
+    <color name="white_87">#ddffffff</color>
+
+    <color name="white_50">#ffffff</color>
+
+    <color name="reply_black_800">#121212</color>
+    <color name="black_900">#000000</color>
+
+    <color name="blue_50">#eef0f2</color>
+    <color name="blue_200">#adc0cb</color>
+    <color name="blue_300">#8da6b5</color>
+    <color name="blue_800">#4CAF50</color>
+    <color name="blue_400">#3B863E</color>
+
+
+    <color name="yellow_100">#fcecb3</color>
+    <color name="yellow_200">#fadf82</color>
+    <color name="yellow_500">#f7c00b</color>
+    <color name="yellow_600">#f7b201</color>
+
+    <color name="red_200">#cf7779</color>
+    <color name="red_400">#ff4c5d</color>
+
+    <color name="black_900_alpha_020">#33000000</color>
+    <color name="black_900_alpha_087">#de000000</color>
+    <color name="black_900_alpha_060">#99000000</color>
+
+    <color name="white_50_alpha_060">#99ffffff</color>
+
+    <color name="blue_50_alpha_060">#99eef0f2</color>
+    <color name="yellow_50_alpha_060">#99f8d44f</color>
+
+
+    <color name="nav_bar">@color/black_900_alpha_020</color>
+
+</resources>

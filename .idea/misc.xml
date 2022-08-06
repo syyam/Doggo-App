@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="app/src/main/res/drawable/ic_favorite_white_24dp.xml" value="0.1445" />
+        <entry key="app/src/main/res/drawable/ic_favourite_red_24dp.xml" value="0.1445" />
+        <entry key="app/src/main/res/drawable/ic_list_white_24dp.xml" value="0.133" />
+        <entry key="app/src/main/res/layout/activity_main.xml" value="0.253125" />
+        <entry key="app/src/main/res/layout/activity_splash.xml" value="0.253125" />
+        <entry key="app/src/main/res/layout/dog_breed_list_fragment.xml" value="0.1" />
+        <entry key="app/src/main/res/layout/dog_detail_fragment.xml" value="0.253125" />
+        <entry key="app/src/main/res/layout/dog_list_fragment.xml" value="0.253125" />
+        <entry key="app/src/main/res/layout/fragment_about.xml" value="0.253125" />
+        <entry key="app/src/main/res/layout/fragment_dog_breed_list.xml" value="0.22685185185185186" />
+        <entry key="app/src/main/res/layout/fragment_dog_detail.xml" value="0.253125" />
+        <entry key="app/src/main/res/layout/fragment_dog_list.xml" value="0.253125" />
+        <entry key="app/src/main/res/layout/fragment_favorites.xml" value="0.253125" />
+        <entry key="app/src/main/res/layout/item_dog.xml" value="0.253125" />
+        <entry key="app/src/main/res/layout/item_dog_breed.xml" value="0.12314814814814815" />
+        <entry key="app/src/main/res/layout/item_fav.xml" value="0.2520833333333333" />
+        <entry key="app/src/main/res/menu/menu_bottom_nav.xml" value="0.17962962962962964" />
+        <entry key="app/src/main/res/xml/network_security_config.xml" value="0.12314814814814815" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" default="true" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

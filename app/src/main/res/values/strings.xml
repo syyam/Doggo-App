@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Doggo App</string>
+    <string name="title_splash">Doggo App :3</string>
+    <string name="text_view_doggos">Load Doggos</string>
+</resources>

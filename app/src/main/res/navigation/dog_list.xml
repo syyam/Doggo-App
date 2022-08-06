@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/dog_list"
+    app:startDestination="@id/dogBreedListFragment">
+
+    <fragment
+        android:id="@+id/dogBreedListFragment"
+        android:name="com.syyam.doggobreedapp.ui.dogBreedList.DogBreedListFragment"
+        android:label="All Breeds"
+        tools:layout="@layout/fragment_dog_breed_list">
+
+        <action
+            android:id="@+id/action_dogBreedListFragment_to_dogListFragment"
+            app:destination="@id/dogListFragment" />
+
+    </fragment>
+    <fragment
+        android:id="@+id/dogListFragment"
+        android:name="com.syyam.doggobreedapp.ui.dogList.DogListFragment"
+        android:label="Detail"
+        tools:layout="@layout/fragment_dog_list">
+
+        <argument
+            android:name="imageUrl"
+            app:argType="string" />
+        <argument
+            android:name="name"
+            app:argType="string" />
+    </fragment>
+
+
+</navigation>
