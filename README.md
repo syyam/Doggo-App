@@ -34,5 +34,5 @@ MVVM Architecture (View - DataBinding - ViewModel - Model)
 - Moshi
 - Lottie
 
-P.S Do not mint the UI, I know it is kind of ugly/
+P.S Do not mind the UI, I know it is kind of ugly/
 
